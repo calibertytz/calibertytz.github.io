@@ -8,12 +8,18 @@
 <title>Yangtianze Tao (陶飏天择)</title>
 </head>
 <body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Menu</div>
+<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+</td>
 <div id="layout-content">
 <div id="toptitle">
 <h1>Yangtianze Tao (陶飏天择)</h1>
 </div>
 <table class="imgtable"><tr><td>
-<a href="https://calibertytz.github.io/"><img src="./my_photo.jpg" alt="alt text" width="120px" /></a>&nbsp;</td>
+<a href="https://calibertytz.github.io/"><img src="./my_photo.jpg" alt="alt text" width="120px" height="160px" /></a>&nbsp;</td>
 <td align="left"><p>Phd Student,<br />
 <a href="https://math.tsinghua.edu.cn/">Department of Mathematical Sciences</a>, <br />
 <a href="http://www.tsinghua.edu.cn/">Tsinghua University</a>, <br />

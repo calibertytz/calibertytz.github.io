@@ -52,7 +52,7 @@
   <li><p><a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.2c01529">Enhanced Aggregation-Induced Emission Activity of Metal–Organic Frameworks by Using Machine Learning Technology
   </a> <br />
   Qi Zhang, <b>Yangtianze Tao</b>, Bin Tang, Jin Zhou, Haiyan Wang, Jianmei Wang, Ying Gao, Jianxin Yang, Linhong Ji, Shuangshou Li  <br />
-  <i>ACS Sustainable Chem. Eng. 2022.</i></p>
+  <i>ACS Sustainable Chemistry & Engineering, 2022.</i></p>
   </li>
   </ul>
   <ul>

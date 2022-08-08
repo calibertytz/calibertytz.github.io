@@ -19,7 +19,7 @@
 						<h1> Yangtianze Tao (陶飏天择) </h1>
 					</div>
 					<table class="imgtable"><tr><td>
-						<a href="https://calibertytz.github.io/"><img src="./my_photo.jpg" alt="alt text" width="120px" height="160px" /></a>&nbsp;</td>
+						<a href="https://calibertytz.github.io/"><img src="./tao.jpg" alt="alt text" width="120px" height="160px" /></a>&nbsp;</td>
 						<td align="left">
 						<p>  Phd Candidate<br />
 						<a href="https://math.tsinghua.edu.cn/">Department of Mathematical Sciences</a> <br />

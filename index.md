@@ -35,6 +35,14 @@
 				<p>My current research interest lies in the statistical signal processing problems related to machine learning, especially filtering and estimation problems based on state-space models (SSMs).<br /></p>
 				<h2>Publications</h2>
 				<ul>
+					<li><p><a>Neural Smoothing for State-Space Models
+					</a> <br />
+					<b>Yangtianze Tao</b>, Jiayi Kang, Stephen Shing-Toung Yau <br />
+					<i>Coming soon.</i></p>
+					</li>
+					</ul>
+				<ul>
+				<ul>
 				<li><p><a>A Unified Algorithmic Framework for  Continuous Nonlinear Filtering Problems
 				</a> <br />
 				<b>Yangtianze Tao</b>, Jiayi Kang, Stephen Shing-Toung Yau <br />
